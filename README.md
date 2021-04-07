@@ -34,3 +34,6 @@ Currently a student engineer at ENSIAS . Holder of a bachelor degree in Computer
   
 
 </p>
+
+
+<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adnanedrief&show_icons=true&hide_border=true&count_private=true"/>
