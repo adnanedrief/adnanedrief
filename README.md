@@ -1,6 +1,6 @@
 
-#### Engineering student at ENSIAS.
-Currently a student engineer at ENSIAS . Holder of a bachelor degree in Computer Sciences . Particularly motivated and interested in the IT field and especially the web (Back-End & UX / UI DESIGN), Big Data (Data Mining & Data Analytics) and Security (Pentest).
+<center> <img src="https://i.imgur.com/1cz8THn.png" border="0"></center>
+Currently a student engineer at ENSIAS . Holder of a bachelor degree in Computer Sciences . Particularly motivated and interested in the IT field and especially the web (Back-End & UX / UI DESIGN), Big Data (Data Mining & Data Analytics) and Security (Pentest).<br>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ### **Languages and Technologies:**
