@@ -1,7 +1,16 @@
-### Hi there 👋
 
+#### Engineering student at ENSIAS.
 Currently a student engineer at ENSIAS . Holder of a bachelor degree in Computer Sciences . Particularly motivated and interested in the IT field and especially the web (Back-End & UX / UI DESIGN), Big Data (Data Mining & Data Analytics) and Security (Pentest).
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adnanedrief)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanedrief&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/adnanedrief)  
 
 ### **Languages and Technologies:**
 <p float="left">
