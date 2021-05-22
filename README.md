@@ -37,7 +37,6 @@
 	<a href="https://www.oracle.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 	</a>
-	
 	<a href="https://www.php.net" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 	</a>
@@ -48,11 +47,12 @@
 		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 	</a>
 	<a href="https://www.adobe.com/products/photoshop.html">
-	 <img width=40px src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="adnanedrief"/>
+	 	<img width=40px src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" alt="adnanedrief"/>
   	</a>
 	<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-	<img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>	
+		<img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>	
 	</a>
+	
 </p>
 
 
