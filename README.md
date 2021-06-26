@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://i.imgur.com/1cz8THn.png" border="0"></p>
 
 ## About Me ##
-<br>Currently a student engineer at ENSIAS . Holder of a bachelor degree in Computer Sciences . Particularly motivated and interested in the IT field and especially the web (Back-End & UX / UI DESIGN), Big Data (Data Mining & Data Analytics) and Security (Pentest).<br>
+<br>Currently a student engineer at ENSIAS . Holder of a bachelor degree in Computer Sciences . Particularly motivated and interested in the IT field and especially the web (Back-End & UX / UI DESIGN), Big Data (Data Mining & Data Analytics) , Security (Pentest) and BlockChain.<br>
 
 ### **Languages and Technologies:**
 <p align="left">
