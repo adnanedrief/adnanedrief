@@ -52,7 +52,9 @@
 	<a href="https://www.adobe.com/products/premiere.html" target="_blank">
 		<img width=40px src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="premiere pro icon"/>	
 	</a>
-	
+	<a href="https://nodejs.org/en/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+	</a>
 </p>
 
 
