@@ -64,5 +64,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanedrief&show_icons=true)  
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+![Profile views](https://gpvc.arturio.dev/adnanedrief)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=adnanedrief.adnanedrief)
