@@ -2,10 +2,11 @@
 
 <p align="center"> <img src="https://i.imgur.com/1cz8THn.png" border="0"></p>
 
-## About Me ##
+## 🤵 About Me 
 <br>Currently a student engineer at ENSIAS . Holder of a bachelor degree in Computer Sciences . Particularly motivated and interested in the IT field and especially the web (Back-End & UX / UI DESIGN), Big Data (Data Mining & Data Analytics) , Security (Pentest) and BlockChain.<br>
 
-### **Languages and Technologies:**
+## 💻 Languages and Technologies:
+
 <p align="left">
 	<a href="https://getbootstrap.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -61,7 +62,16 @@
  
 </p>
 
+
+
+## 📊 My Github Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanedrief&show_icons=true)  
+
+[![Adnane Drief](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanedrief&layout=compact)](https://github.com/adnanedrief/github-readme-stats)
+
+<br/>
+
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![Profile views](https://gpvc.arturio.dev/adnanedrief)
