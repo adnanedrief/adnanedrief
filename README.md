@@ -57,18 +57,15 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 	</a>
 </p>
-
-
- 
 </p>
-
-
 
 ## 📊 My Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanedrief&show_icons=true)  
+ <br/>
+    <a href="https://github.com/adnanedrief/github-readme-stats"><img alt="adnanedrief's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adnanedrief&show_icons=true&count_private=true" /></a>
+    
+  <a href="https://github.com/adnanedrief/github-readme-stats"><img alt="adnanedrief's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanedrief&langs_count=8&count_private=true&layout=compact" /></a>
 
-[![Adnane Drief](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanedrief&layout=compact)](https://github.com/adnanedrief/github-readme-stats)
 
 <br/>
 
