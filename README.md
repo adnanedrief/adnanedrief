@@ -62,7 +62,7 @@
 ## 📊 My Github Stats
 
  <br/>
-    <a href="https://github.com/adnanedrief/github-readme-stats"><img alt="adnanedrief's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adnanedrief&show_icons=true&count_private=true" /></a> &nbsp &nbsp 
+    <a href="https://github.com/adnanedrief/github-readme-stats"><img alt="adnanedrief's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adnanedrief&show_icons=true&count_private=true" /></a>
   <a href="https://github.com/adnanedrief/github-readme-stats"><img alt="adnanedrief's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanedrief&langs_count=8&count_private=true&layout=compact" /></a>
 <br/>
 
