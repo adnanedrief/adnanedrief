@@ -67,6 +67,15 @@
 
 <br/>  
 
+## 💻DevOps
+<div align="center">  
+ <a href="https://www.docker.com/" target="_blank" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
+  </a>
+  <a href="https://www.gitlab.com/" target="_blank" title="Gitlab">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gtilab" width="60" height="60"/>
+  </a>
+</div>
 
 ## 📊 My Github Stats
 
@@ -78,4 +87,6 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ![Profile views](https://gpvc.arturio.dev/adnanedrief)
-
+ <a href="https://github.com/adnanedrief?tab=followers" target="_blank" title="">
+    <img src="https://img.shields.io/github/followers/adnanedrief?label=Followers&style=social" alt="GitHub Badge" height="21"/>
+  </a>
