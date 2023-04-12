@@ -2,10 +2,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-### <div align="center">I'm Adnane Drief, a Software Engineer Student At ENSIAS🚀</div>  
+### <div align="center">Get to Know Adnane Drief: The Software Engineer Who Gets Things Done🚀</div>  
   
 ## 🤵 About Me 
-<br>Currently a student engineer at ENSIAS . Holder of a bachelor degree in Computer Sciences . Particularly motivated and interested in the IT field and especially the web (Back-End & UX / UI DESIGN), Big Data (Data Mining & Data Analytics) , Security (Pentest) and BlockChain.<br>
+<br>Hey there 👋, I'm a software engineer 💻 with a passion for understanding complex systems and developing innovative solutions to real-world problems. I'm deeply interested in creating advanced technologies that can improve people's quality of life. Learning and taking on new challenges in the field of programming and software development is something I always look forward to. Working collaboratively with a team is also something that I enjoy, and I'm always happy to share my knowledge with others. I'm excited to continue my journey in computer science and to pick up new skills and experiences along the way!<br>
 
 
 ## 💻Frontend  
